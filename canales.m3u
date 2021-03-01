@@ -1,5 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", carvin store
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1 tvg-logo="http://srregio.net/img/img.php" .jpg", SRREGIO.NET
+http://srregio.net/web.php
+#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
+http://srregio.net/web.php
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
+http://srregio.net/web.php
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://srregio.net/web.php
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
+http://srregio.net/web.php
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" ,REGIO CHANNEL
+http://ipeteve.com/php/th.php?channel=srregio&f.m3u8
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=136_&f=.m3u8
