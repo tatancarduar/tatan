@@ -30,7 +30,7 @@ http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1541_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=130_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/foxaction_thumb_650zv1c1.png" group-title="Cine",FOX ACTION
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=170_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TV PREMIUM",SPACE
+#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="Cine",SPACE
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=180_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="TV PREMIUM",ADRENALINA
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=265_&f=.m3u8
