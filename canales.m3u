@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", carvin store
-http://srregio.net/web.php
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=136_&f=.m3u8
