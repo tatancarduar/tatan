@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1 tvg-logo="http://srregio.net/img/img.php" .jpg", SRREGIO.NET
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", carvin store
 http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://srregio.net/web.php
-#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://srregio.net/web.php
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" ,REGIO CHANNEL
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" ,facebook 
 http://ipeteve.com/php/th.php?channel=srregio&f.m3u8
 
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , REINO INFANTIL 24/7
-http://ipeteve.com/php/y.php?v=WzyeiiVQa_A&f.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=136_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/canal2hd_thumb.png" group-title="TV PREMIUM",CANAL 2 MX
@@ -34,43 +24,52 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=180_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="TV PREMIUM",ADRENALINA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=265_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="TV PREMIUM",AyM Sports
+
+#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="Deportes",AyM Sports
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=262_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/basket-americas_thumb.png" group-title="TV PREMIUM",BASKET AMERICAS
+#EXTINF:-1 logo="https://www.televall.online/gallery/basket-americas_thumb.png" group-title="Deportes",BASKET AMERICAS
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1572_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="TV PREMIUM",BEIN SPORTS Ñ
+#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="Deportes",BEIN SPORTS Ñ
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1844_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="TV PREMIUM",BEIN SPORTS HD
+#EXTINF:-1 logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="Deportes",BEIN SPORTS HD
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1844_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/claro_sports_thumb.png" group-title="TV PREMIUM",CLARO SPORTS
+#EXTINF:-1 logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="Deportes",BEIN SPORTS HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1844_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/claro_sports_thumb.png" group-title="Deportes",CLARO SPORTS
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1868_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="TV PREMIUM",ESPN Deportes
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="Deportes",ESPN Deportes
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1837_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="TV PREMIUM",ESPN 1 MX
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="Deportes",ESPN 1 MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1876_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="TV PREMIUM",ESPN 2 MX
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="Deportes",ESPN 2 MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=131_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="TV PREMIUM",ESPN 3 MX
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="Deportes",ESPN 3 MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1391_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn-extra_thumb_v5t5c0ud.png" group-title="TV PREMIUM",ESPN EXTRA
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-extra_thumb_v5t5c0ud.png" group-title="Deportes",ESPN EXTRA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=258_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn_thumb_j38x1m4y.png" group-title="TV PREMIUM",ESPN 1 LA
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn_thumb_j38x1m4y.png" group-title="Deportes",ESPN 1 LA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espnla_thumb_kys25671.png" group-title="TV PREMIUM",ESPN 2 LA
+#EXTINF:-1 logo="https://www.televall.online/gallery/espnla_thumb_kys25671.png" group-title="Deportes",ESPN 2 LA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1834_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/espn3_thumb_t4o6nufq.png" group-title="TV PREMIUM",ESPN 3 LA
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn3_thumb_t4o6nufq.png" group-title="Deportes",ESPN 3 LA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1836_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="TV PREMIUM",FOX SPORTS 1 MX
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="Deportes",FOX SPORTS 1 MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1873_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="TV PREMIUM",FOX SPORTS 2 MX
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="Deportes",FOX SPORTS 2 MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=260_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="TV PREMIUM",FOX SPORTS 3 MX
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="Deportes",FOX SPORTS 3 MX
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=261_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports_thumb_yrc7bnpo.png" group-title="Deportes",FOS SPORTS 1 LA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1851_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2_thumb_nh8l6vwv.png" group-title="Deportes",FOX SPORTS 2 LA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1850_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_tckesy09.png" group-title="Deportes",FOX SPORTS 3 LA
+#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TV PREMIUM",LAS Deportes
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=263_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="TV PREMIUM",TVC Deportes
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=264_&f=.m3u8
+
+
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1394_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="TV PREMIUM",CARACOL
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=74_&f=.m3u8
@@ -84,8 +83,12 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1789_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=83_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="TV PREMIUM",HAVOC
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=266_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TV PREMIUM",LAS Deportes
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=263_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/winsports-hd_thumb_guwaar4g.png" group-title="TV PREMIUM",WIN SPORTS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1843_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/win-plus_thumb_6qvzmea1.png" group-title="TV PREMIUM",WIN SPORTS PLUS
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1670_&f=.m3u8
+
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/rai-italia_thumb_40vpsggx.png" group-title="TV PREMIUM",RAI ITALIA
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1545_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="TV PREMIUM",RCN
@@ -96,8 +99,7 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1779_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=267_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_4vvy03nm.png" group-title="TV PREMIUM",TUDN US
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1782_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="TV PREMIUM",TVC Deportes
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=264_&f=.m3u8
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/tv5-monde_thumb.png" group-title="TV PREMIUM",TV5 Monde
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1662_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_s76802wb.png" group-title="TV PREMIUM",UNIMAS
@@ -106,10 +108,7 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1784_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1849_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1856_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/winsports-hd_thumb_guwaar4g.png" group-title="TV PREMIUM",WIN SPORTS
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1843_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/win-plus_thumb_6qvzmea1.png" group-title="TV PREMIUM",WIN SPORTS PLUS
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1670_&f=.m3u8
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/agenda-deportiva_thumb.png" group-title="TV PREMIUM",PARTIDOS HOY
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-action_thumb_z891xpnn.png" group-title="TV PREMIUM",FOX Action
